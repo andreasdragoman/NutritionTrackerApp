@@ -1,0 +1,12 @@
+.add-nutrition {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: darkseagreen;
+    color: black;
+}
+
+.btn-add-nutrition {
+    margin-left: 5px !important;
+}

@@ -1,0 +1,16 @@
+.nutrition-item-card {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: saddlebrown;
+    color: black;
+    width: fit-content;
+    min-width: 200px;
+    max-width: 300px;
+    display: inline-block;
+}
+
+.nutrition-item-title {
+    margin: 0;
+}
